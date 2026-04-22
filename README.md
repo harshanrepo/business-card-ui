@@ -13,7 +13,6 @@ A modern and responsive **business card design** built using **HTML** and **CSS*
 📌 Features
 
 * Clean and minimal design
-* Responsive layout
 * Well-structured HTML & CSS
 * Easy to customize
 
