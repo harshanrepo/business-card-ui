@@ -1,0 +1,53 @@
+body{
+  font-family:Arial,sans-serif;
+   background-color:rosybrown;
+  
+}
+.business-card{
+background-color:white;
+  width:320px;
+  height: 500px;
+  padding:20px;
+  margin:100px;
+  font-size:16px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+}
+.profile-image{
+  max-width:100%;
+}
+p{
+  margin:5px 0px 5px 0px;
+}
+a{
+  text-decoration:none;
+  color: #000;
+}
+.contact:hover{
+    text-decoration: underline;
+    color: #9d4edd;
+}
+.media{
+    display: inline-block;
+    margin: 5px;
+}
+.portfolio-link:hover{
+    background-color: rosybrown;
+    color: white;
+    border-radius: 5px;
+    padding: 3px;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    transition: all 0.3s;
+}
+.media:hover{
+     background-color: rosybrown;
+    border-radius: 5px;
+    padding: 3px;
+     width: 20%;
+    margin-right: auto;
+    margin-left: auto;
+    transition: all 0.3s;
+}
